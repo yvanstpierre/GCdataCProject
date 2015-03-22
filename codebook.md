@@ -1,13 +1,13 @@
 ## CodeBook
 
-*Col#	Variable name			Type		Description	
+* Col#	Variable name			Type		Description	
 				
-*1	Activity			string variable	Activity, with values among the following: 
+* 1	Activity			string variable	Activity, with values among the following: 
 							"LAYING"; ""SITTING"; "STANDING"; "WALKING"; 
 							"WALKING_DOWNSTAIRS"; "WALKING_UPSTAIRS"	
-*2	Subject_ID			integer		Subject identifier, with values from 1 to 30	
-*3	tBodyAcc.X.mean			numeric		Average of the following feature:	tBodyAcc-mean()-X
-4	tBodyAcc.Y.mean			numeric		Average of the following feature:	tBodyAcc-mean()-Y
+* 2	Subject_ID			integer		Subject identifier, with values from 1 to 30	
+* 3	tBodyAcc.X.mean			numeric		Average of the following feature:	tBodyAcc-mean()-X
+* 4	tBodyAcc.Y.mean			numeric		Average of the following feature:	tBodyAcc-mean()-Y
 5	tBodyAcc.Z.mean			numeric		Average of the following feature:	tBodyAcc-mean()-Z
 6	tBodyAcc.X.std			numeric		Average of the following feature:	tBodyAcc-std()-X
 7	tBodyAcc.Y.std			numeric		Average of the following feature:	tBodyAcc-std()-Y
