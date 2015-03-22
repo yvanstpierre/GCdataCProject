@@ -1,8 +1,8 @@
 ## CodeBook
 
-* Col#	Variable name			Type		Description	
+* Col#	Variable_name			Type		Description	
 				
-* 1	Activity			string variable	Activity, with values among the following: 
+* 1	Activity			string_variable	Activity, with values among the following: 
 							"LAYING"; ""SITTING"; "STANDING"; "WALKING"; 
 							"WALKING_DOWNSTAIRS"; "WALKING_UPSTAIRS"	
 * 2	Subject_ID			integer		Subject identifier, with values from 1 to 30	
